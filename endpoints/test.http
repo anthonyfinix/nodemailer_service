@@ -1,0 +1,6 @@
+POST http://localhost:3007/test
+Content-Type: application/json
+
+{
+    "to":"anthonyfinix@gmail.com"
+}

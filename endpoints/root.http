@@ -1,0 +1,12 @@
+GET http://localhost:3007/
+Content-Type: application/json
+
+{
+    "role":"admin",
+    "entities":[
+        {
+            "name":"user",
+            "permissions":{}
+        }
+    ]
+}
